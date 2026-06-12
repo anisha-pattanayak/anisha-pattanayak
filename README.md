@@ -1,4 +1,5 @@
-```md
+
+:::writing{variant="standard" id="71482"}
 # 👋 About Me
 
 ### 🔭 I’m currently working on
@@ -98,4 +99,5 @@ I enjoy turning raw ideas into real projects and love learning by building thing
 ## 👀 Profile Views
 
 [![](https://komarev.com/ghpvc/?username=anisha-pattanayak&color=blue)](https://visitcount.itsvg.in)
-```
+:::
+
