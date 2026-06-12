@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ### 🔭 I’m currently working on<br>Building data-driven and AI-focused projects, including real-time data pipelines, analytics dashboards, and full-stack applications that solve practical problems.<br><br>### 👯 I’m looking to collaborate on<br>Open-source projects related to Full Stack Application, Data Engineering, AI/ML, Backend Development, Python, SQL, and cloud-based data solutions.<br><br>### 🤝 I’m looking for help with<br>Improving my skills in scalable system design, advanced data engineering workflows, cloud deployment, and industry-level project architecture.<br><br>### 🌱 I’m currently learning<br>Data Engineering, Machine Learning, SQL optimization, Python for analytics, backend development, and modern tools for building scalable applications.<br><br>### 💬 Ask me about<br>Python, SQL, React, REST APIs, DBMS, Data Structures, GitHub, data analysis projects, backend development using Django and Node.js, and building full stack projects.<br><br>### ⚡ Fun fact<br>I enjoy turning raw ideas into real projects and love learning by building things from scratch.
 
 
