@@ -1,5 +1,3 @@
-
-:::writing{variant="standard" id="71482"}
 # 👋 About Me
 
 ### 🔭 I’m currently working on
